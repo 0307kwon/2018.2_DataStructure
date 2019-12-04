@@ -1,0 +1,29 @@
+﻿  소스.c
+c:\users\권세진\source\repos\linked list\linked list\소스.c(13): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[20]'과(와) 다릅니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(13): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(13): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char **'과(와) 다릅니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(13): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(13): warning C4020: 'strcpy_s': 실제 매개 변수가 너무 많습니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(16): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(36): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\권세진\source\repos\linked list\linked list\소스.c(36): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(44): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char *[20]'과(와) 다릅니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(44): warning C4024: 'strcmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(44): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char **'과(와) 다릅니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(44): warning C4024: 'strcmp': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(75): warning C4013: 'IsString'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(85): warning C4013: 'atol'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(74): warning C4477: 'fscanf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+  c:\users\권세진\source\repos\linked list\linked list\소스.c(74): note: 이 인수는 변환 지정자에서 사용됩니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(87): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(128): warning C4477: 'fscanf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char **'입니다.
+  c:\users\권세진\source\repos\linked list\linked list\소스.c(128): note: 이 인수는 변환 지정자에서 사용됩니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(145): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\권세진\source\repos\linked list\linked list\소스.c(145): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\권세진\source\repos\linked list\linked list\소스.c(145): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+  c:\users\권세진\source\repos\linked list\linked list\소스.c(145): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\권세진\source\repos\linked list\linked list\소스.c(152): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\권세진\source\repos\linked list\linked list\소스.c(152): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\권세진\source\repos\linked list\linked list\소스.c(152): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+  c:\users\권세진\source\repos\linked list\linked list\소스.c(152): note: 이 인수는 버퍼 크기로 사용됩니다.
+  Linked list.vcxproj -> C:\Users\권세진\source\repos\Linked list\Debug\Linked list.exe
